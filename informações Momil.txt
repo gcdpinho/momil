@@ -1,0 +1,21 @@
+O site será one page baseado no site www.momilalimentos.com.br. Dividios pelas sections: 
+Home, Empresa, Produtos, Receitas, Contato
+
+Home: slider com imagens de polentas(a pedir)
+Empresa: igual ao site
+Produtos: Divididos por linha congelados e linha momil - farinhas (não há mais linha milano)
+
+Linha Congelados 
+Polenta Congelada Palito com 2 opções - caixa com 6 unidades, 400g validade 365 dias e caixa com 30 unidades, validade 365 dias (sem peso)
+
+Polenta Congelada Cubo - caixa com 5 unidades, 2kg, validade 365 dias (somente isso, não há outra de cubo)
+
+Polenta Congelada Tablete - caixa com 5 unidades, 2kg, validade 365 dias (não há outra opção de tablete tbm)
+
+Linha Momil - farinhas
+igual ao site
+
+Receitas: Igual ao site, somente retirar as datas de publicação
+
+Contato: Igual ao site, somente alterar CEP para 89110-110
+
