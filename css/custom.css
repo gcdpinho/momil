@@ -1,0 +1,42 @@
+.img-isotope {
+    width: 100%;
+}
+
+.portfolio-item {
+    width: 25%;
+}
+
+.bt-filter {
+    background-color: transparent;
+    border: 2px solid #50d8af;
+    border-radius: 0;
+    color: #50d8af;
+    font-weight: 700;
+    margin: 0 0.5em;
+    box-shadow: none;
+    padding: 10px 32px;
+}
+
+.bt-filter:hover,
+.bt-filter:active,
+.bt-filter:focus {
+    background-color: #50d8af;
+    border-color: #50d8af;
+    color: white;
+    outline: thin dotted;
+    outline-offset: 0;
+    box-shadow: none;
+}
+
+.bt-active {
+    background-color: #50d8af;
+    color: white;
+}
+
+.grid-produtos {
+    margin-top: 2rem;
+}
+
+a.vulpis:hover {
+    color: #50d8af !important;
+}

@@ -1079,5 +1079,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .credits a {
-  color: #0c2e8a;
+  color: #555;
+  font-weight: bold;
 }
