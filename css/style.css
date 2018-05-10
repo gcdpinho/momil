@@ -63,7 +63,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover {
-  background: #00552a;
+  background: #006727;
   color: #fff;
 }
 
@@ -118,7 +118,7 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #header {
   padding: 20px 0;
-  height: 84px;
+  height: 96px;
   transition: all 0.5s;
   z-index: 997;
   background: #fff;
@@ -135,7 +135,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header #logo h1 a {
-  color: #00552a;
+  color: #006727;
   line-height: 1;
   display: inline-block;
 }
@@ -188,7 +188,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #intro .intro-content h2 {
-  color: #00552a;
+  color: #006727;
   margin-bottom: 30px;
   font-size: 64px;
   font-weight: 700;
@@ -219,13 +219,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #intro .intro-content .btn-get-started {
-  background: #00552a;
-  border: 2px solid #00552a;
+  background: #006727;
+  border: 2px solid #006727;
 }
 
 #intro .intro-content .btn-get-started:hover {
   background: none;
-  color: #00552a;
+  color: #006727;
 }
 
 #intro .intro-content .btn-projects {
@@ -506,7 +506,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .section-header h2 {
   font-size: 32px;
-  color: #00552a;
+  color: #006727;
   text-transform: uppercase;
   font-weight: 700;
   position: relative;
@@ -555,7 +555,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #empresa .content h2 {
-  color: #00552a;
+  color: #006727;
   font-weight: 700;
   font-size: 36px;
   font-family: "Raleway", sans-serif;
@@ -626,7 +626,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #services .box .icon i:before {
-  background: #00552a;
+  background: #006727;
   background: linear-gradient(45deg, #f1a900 0%, #a3ebd5 100%);
   background-clip: border-box;
   -webkit-background-clip: text;
@@ -843,7 +843,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* Call To Action Section
 --------------------------------*/
 #call-to-action {
-  background: #00552a;
+  background: #006727;
   background-size: cover;
   padding: 40px 0;
 }

@@ -71,3 +71,27 @@ a.vulpis:hover {
 #services h3{
     color: #f1a900;
 }
+
+.img-logo{
+    display: inline-block;
+    width: 55px;
+}
+
+#logo h1{
+    margin-left: 10px !important;
+    display: inline-block;
+}
+
+#logo{
+    display: flex;
+    align-items: center;
+}
+
+.logo-intro{
+    width: 225px;
+    margin-bottom: 15px;
+}
+
+.mt30{
+    margin-top: 30px;
+}
