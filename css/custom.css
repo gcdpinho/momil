@@ -1,3 +1,11 @@
+body {
+    overflow-x: hidden;
+}
+
+.img-produtos {
+    width: 100%;
+}
+
 .img-isotope {
     width: 100%;
 }
@@ -39,4 +47,27 @@
 
 a.vulpis:hover {
     color: #50d8af !important;
+}
+
+.desc-produto p,
+.desc-produto h4 {
+    margin-left: 0 !important;
+}
+
+.testimonial-item {
+    text-align: left !important;
+    font-size: 13px;
+}
+
+.testimonial-item ul {
+    list-style-type: square;
+}
+
+.testimonial-item p {
+    text-align: justify;
+    font-style: initial !important;
+}
+
+#services h3{
+    color: #50d8af;
 }

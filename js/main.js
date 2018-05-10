@@ -136,7 +136,7 @@ jQuery(document).ready(function ($) {
 
   // Testimonials carousel (uses the Owl Carousel library)
   $(".testimonials-carousel").owlCarousel({
-    autoplay: true,
+    autoplay: false,
     dots: true,
     loop: true,
     responsive: {
@@ -191,21 +191,21 @@ jQuery(document).ready(function ($) {
 
   /* CUSTOM */
 
-  var grid = $('.grid-produtos');
-  grid.imagesLoaded(function () {
-    grid.isotope({
-      itemSelector: '.portfolio-item',
-    });
-  });
+  // var grid = $('.grid-produtos');
+  // grid.imagesLoaded(function () {
+  //   grid.isotope({
+  //     itemSelector: '.portfolio-item',
+  //   });
+  // });
 
-  $('.bt-filter').click(function () {
-    grid.isotope({
-      filter: $(this).attr('data-filter')
-    });
-    var bts = $('.bt-filter');
-    for (var i = 0; i < bts.length; i++)
-      $(bts[i]).removeClass('bt-active');
-    $(this).addClass('bt-active');
-  });
+  // $('.bt-filter').click(function () {
+  //   grid.isotope({
+  //     filter: $(this).attr('data-filter')
+  //   });
+  //   var bts = $('.bt-filter');
+  //   for (var i = 0; i < bts.length; i++)
+  //     $(bts[i]).removeClass('bt-active');
+  //   $(this).addClass('bt-active');
+  // });
 
 });
