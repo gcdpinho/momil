@@ -140,7 +140,7 @@ jQuery(document).ready(function ($) {
     dots: true,
     loop: true,
     autoplayTimeout: 5000,
-    autoplayHoverPause:true,
+    autoplayHoverPause: true,
     responsive: {
       0: {
         items: 1
