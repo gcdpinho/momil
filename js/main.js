@@ -139,7 +139,8 @@ jQuery(document).ready(function ($) {
     autoplay: true,
     dots: true,
     loop: true,
-    autoplayTimeout: 10000,
+    autoplayTimeout: 5000,
+    autoplayHoverPause:true,
     responsive: {
       0: {
         items: 1
