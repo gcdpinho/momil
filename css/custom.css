@@ -16,9 +16,9 @@ body {
 
 .bt-filter {
     background-color: transparent;
-    border: 2px solid #50d8af;
+    border: 2px solid #f1a900;
     border-radius: 0;
-    color: #50d8af;
+    color: #f1a900;
     font-weight: 700;
     margin: 0 0.5em;
     box-shadow: none;
@@ -28,8 +28,8 @@ body {
 .bt-filter:hover,
 .bt-filter:active,
 .bt-filter:focus {
-    background-color: #50d8af;
-    border-color: #50d8af;
+    background-color: #f1a900;
+    border-color: #f1a900;
     color: white;
     outline: thin dotted;
     outline-offset: 0;
@@ -37,7 +37,7 @@ body {
 }
 
 .bt-active {
-    background-color: #50d8af;
+    background-color: #f1a900;
     color: white;
 }
 
@@ -46,7 +46,7 @@ body {
 }
 
 a.vulpis:hover {
-    color: #50d8af !important;
+    color: #f1a900 !important;
 }
 
 .desc-produto p,
@@ -69,5 +69,5 @@ a.vulpis:hover {
 }
 
 #services h3{
-    color: #50d8af;
+    color: #f1a900;
 }
