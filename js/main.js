@@ -210,4 +210,10 @@ jQuery(document).ready(function ($) {
   //   $(this).addClass('bt-active');
   // });
 
+  $('.btn-ler').click(function(){
+    var val = $(this).attr('value');
+    $('.receita-inner.'+val).css('height', 'auto');
+    $('.btn-ler.'+val).css('display', 'none');
+  });
+
 });
