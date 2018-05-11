@@ -55,7 +55,6 @@ a.vulpis:hover {
 }
 
 .testimonial-item {
-    text-align: left !important;
     font-size: 13px;
 }
 
@@ -68,30 +67,51 @@ a.vulpis:hover {
     font-style: initial !important;
 }
 
-#services h3{
+#services h3 {
     color: #f1a900;
 }
 
-.img-logo{
+.img-logo {
     display: inline-block;
     width: 55px;
 }
 
-#logo h1{
+#logo h1 {
     margin-left: 10px !important;
     display: inline-block;
 }
 
-#logo{
+#logo {
     display: flex;
     align-items: center;
 }
 
-.logo-intro{
+.logo-intro {
     width: 225px;
     margin-bottom: 15px;
 }
 
-.mt30{
+.mt30 {
     margin-top: 30px;
+}
+
+.btn-ler {
+    font-family: "Raleway", sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    transition: 0.5s;
+    color: #f1a900 !important;
+    cursor: pointer;
+    display: block;
+    margin-top: 30px;
+}
+
+.btn-ler:hover{
+    text-decoration: underline !important;
+}
+
+.receita-inner{
+    text-align: left !important;
+    height: 300px;
+    overflow: hidden;
 }
