@@ -417,7 +417,7 @@ h1, h2, h3, h4, h5, h6 {
   padding-top: 18px;
   bottom: 0;
   z-index: 998;
-  background: rgba(52, 59, 64, 0.9);
+  background: rgba(255, 255, 255, 0.9);
   left: -260px;
   width: 260px;
   overflow-y: auto;
@@ -435,7 +435,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #mobile-nav ul li a {
-  color: #fff;
+  color: #006727;
   font-size: 16px;
   overflow: hidden;
   padding: 10px 22px 10px 15px;
@@ -659,10 +659,6 @@ body.mobile-nav-active #mobile-nav-toggle {
     float: none;
     text-align: center;
     padding-bottom: 15px;
-  }
-  #services .box h4, #services .box p {
-    margin-left: 0;
-    text-align: center;
   }
 }
 
